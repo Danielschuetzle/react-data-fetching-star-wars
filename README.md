@@ -7,7 +7,7 @@ Welcome to the Star Wars Characters Fetcher! This app is built using [Next.js](h
 1. Clone the repository
 
 \`\`\`bash
-git clone https://github.com/<your-github-username>/star-wars-characters-fetcher.git
+git clone https://github.com/Danielschuetzle/react-data-fetching-star-wars.git
 \`\`\`
 
 2. Change the working directory
@@ -40,19 +40,3 @@ npm run dev
 - [Next.js](https://nextjs.org/)
 - [SWR](https://swr.vercel.app/)
 - [Styled Components](https://styled-components.com/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
-
-## 📝 License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-
-## 👨‍💻 Authors
-
-- [@YourGitHubUsername](https://github.com/<your-github-username>)
-
-## 💖 Show your support
-
-Give a ⭐️ if this project helped you!
