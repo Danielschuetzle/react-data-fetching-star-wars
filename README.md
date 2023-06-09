@@ -6,27 +6,26 @@ Welcome to the Star Wars Characters Fetcher! This app is built using [Next.js](h
 
 1. Clone the repository
 
-\`\`\`bash
+`
 git clone https://github.com/Danielschuetzle/react-data-fetching-star-wars.git
-\`\`\`
+`
 
 2. Change the working directory
 
-\`\`\`bash
+`
 cd star-wars-characters-fetcher
-\`\`\`
+`
 
 3. Install dependencies
-
-\`\`\`bash
+`
 npm install
-\`\`\`
+`
 
 4. Run the app
 
-\`\`\`bash
+`
 npm run dev
-\`\`\`
+`
 
 🌟 You are all set!
 
